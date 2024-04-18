@@ -1,7 +1,7 @@
 <<<<<<< HEAD:css/eliminar.css
 @font-face {
     font-family: 'Myriad pro, regular';
-    src: url(./font/Myriad\ Pro\ Regular.ttf);
+    src: url(../storage/fontMyriad\ Pro\ Regular.ttf);
 }
 *{
     margin: 0;
@@ -1107,7 +1107,7 @@ display: block;
 =======
 @font-face {
     font-family: 'Myriad pro, regular';
-    src: url(./font/Myriad\ Pro\ Regular.ttf);
+    src: url(../storage/fontMyriad\ Pro\ Regular.ttf);
 }
 *{
     margin: 0;
