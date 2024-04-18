@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
  
 =======
 # proyecto html/css-Kario Media PM
@@ -310,3 +311,6 @@ En esta sección el usuario podrá resolver dudas o  problemas que pueda encontr
 - Helen Parga
 - Deivid Velasquez
 >>>>>>> 71c0c72 (docs :art: Modificacion del README)
+=======
+248718c ef63764  ac2570e  918f076 95365e0 47c73f6
+>>>>>>> a6d3c7a (feat: :bricks: Estructura de la carpeta de storage)
